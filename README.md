@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of jsthon/flarum-ext-simplified-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/jsthon/flarum-ext-simplified-chinese) or the [upstream repository](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/jsthon-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**3** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/jsthon-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.4` | 2015-12-01 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/jsthon-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-04-09 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/jsthon-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.7` | 2017-08-03 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jsthon-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.7) |
 
 Catalog entry: [packages/jsthon-flarum-ext-simplified-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/jsthon-flarum-ext-simplified-chinese.json)
 
